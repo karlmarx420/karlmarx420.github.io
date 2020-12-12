@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(SYNDSOUL_base-svg_edit.png);
+    background: url(SYNDSOUL_base-svg_edit-with-text.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(SYNDSOUL_base-svg_edit.png);
+    background: url(SYNDSOUL_base-svg_edit-with-text.png);
 }
 
 .ds4.disconnected div {
