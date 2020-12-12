@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(VANILLA_start-svg);
+    background: url(VANILLA_start-svg.png);
     width: 28px;
     height: 46px;
     opacity: 0;
