@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(CHAPO_bumper-svg.png) no-repeat;
+    background: url(CHAPO_bumper-svg) no-repeat;
     opacity: 0;
 }
 
