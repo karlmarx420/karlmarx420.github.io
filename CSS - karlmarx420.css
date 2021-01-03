@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(base_neonGIF-000.gif);
+    background: url(neonGIF_controller-finished.gif);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(GIFbase_TEST.gif);
+    background: url(neonGIF_controller-finished.gif);
 }
 
 .ds4.disconnected div {
