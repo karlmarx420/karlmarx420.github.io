@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(CHRONICbasePS4-svg-chronicedit.png);
+    background: url(CHRONICbasePS4-svg-final.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(CHRONICbasePS4-svg-chronicedit.png);
+    background: url(CHRONICbasePS4-svg-final.png);
 }
 
 .ds4.disconnected div {
