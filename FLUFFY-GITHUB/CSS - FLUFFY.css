@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(FLUFFYbasePS4-svg.png);
+    background: url(FLUFFYbase-svg.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(FLUFFYbasePS4-svg.png);
+    background: url(FLUFFYbase-svg.png);
 }
 
 .ds4.disconnected div {
